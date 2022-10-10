@@ -1,0 +1,50 @@
+What is React ?
+React is JS library used to make better and reusable UI. It is Developed by Facebook in year 2013 latest version of React is 18.2.0
+
+what is library?
+Library is collection of prewritten programmes
+
+what is Single page Applcation?
+A single-page application is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages.
+
+What is Componets?
+Componets let splite the UI into indepedent, reusable piece and think about each piece
+
+What is latest version of React?
+18.2.0
+
+What is DOM?
+DOM means Document Object Model. It is Data Representation of Object that comprise structure and content pf document web page
+
+What is React Virtual DOM?
+Virtual Representation of UI is present and synced with Real DOM
+
+What Does Web application or website have?
+Web application is designed for interaction with end users.
+
+Why React?
+fast
+modular
+scalable
+flexible
+big community and popular
+open source
+High job opportunity
+
+What is HTML elements?
+anything with start tag and end with end tag is HTML elements
+
+What are HTML attributes?
+specail words used in HTML elements
+
+What is JSX?
+JSX is JavaScript XML
+
+What is Babel?
+babel is convert reactjs into pure js.
+
+What does transpiler mean?
+A transpiler (also called source-to-source compiler or a transcompiler) is a program that translates a source code from a language to another at the same level
+
+
+
