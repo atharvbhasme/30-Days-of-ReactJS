@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.mainsection {
+  padding: 20px;
+  background-color: rgba(170, 237, 237, 0.962);
+  border-radius: 20px;
+  margin: 20px;
+  text-align: center;
+}
+.head {
+  margin: 20px;
+}
+.mainsection p {
+  padding: 20px;
+}
+input {
+  border-radius: 10px;
+  height: 2rem;
+  width: 10rem;
+  margin: 7px;
+  background-color: whitesmoke;
+  padding: 5px;
+  outline: none;
+}
+.submitbtn {
+  height: 2rem;
+  width: 10rem;
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  margin: 20px;
+  outline: none;
+}
+.profileimg {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 100%;
+}
+.cardsection {
+  text-align: left;
+}
+.skills {
+  color: white;
+  background-color: rgb(89, 203, 241);
+  border-radius: 5px;
+  display: inline-block;
+  padding: 3px;
+  margin: 10px;
+}
