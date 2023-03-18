@@ -1,0 +1,29 @@
+Components are small reusable code that is resopnsible for the one part of react application UI.
+
+Difference between a regular function and an arrow function?
+1. Inside regular fucntion this value is dynamic
+2. If you try to invoke an arrow function prefixed with new keyword, JavaScrip throws an error:
+but in regular function we can create constructor.
+3. 
+
+
+What is React Components?
+A React component is a small, reusable code, which is responsible for one part of the application UI
+
+How do we make the react functional Components?
+By Writing Javascript Function and this funciton return the JSX value.to render to DOM tree.
+
+what is the difference between a pure JavaScript function and a functional component?
+Components
+ - function which return the JSX
+ - we cannot create the constructor
+ - only return one value
+
+Pure Function
+ - We can create constructor
+ - we can return as many value possible.
+
+Can we make a button or input field component?
+Yes, we can make Button or input field Components.
+
+
